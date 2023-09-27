@@ -2,8 +2,8 @@
 layout: poem
 title: "Like You"
 author: Roque Dalton
-editor: Isaiah Cruz
-source: Roque Dalton
+editor: Roque Dalton
+source: Roque Dalton Poems
 ---
 
 - Like you I

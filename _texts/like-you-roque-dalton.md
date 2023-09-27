@@ -1,7 +1,7 @@
 ---
 layout: poem
 title: "Like You"
-author: Isaiah Cruz
+author: Roque Dalton
 editor: Isaiah Cruz
 source: Roque Dalton
 ---
